@@ -45,7 +45,7 @@ nav .nav-links li a:hover{
     background-color: #cccccc;
 }
 .hero{
-    background-image: url('architect.jpg');
+    background-image: url('img/architect.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
